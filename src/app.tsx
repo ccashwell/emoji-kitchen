@@ -56,7 +56,7 @@ function App() {
         <ThemeProvider theme={theme}>
           <Kitchen />
         </ThemeProvider>
-        <Footer />
+        {/* <Footer /> */}
       </div>
     );
   }
